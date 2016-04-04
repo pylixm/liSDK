@@ -1,5 +1,7 @@
 # 印象笔记SDK（2016-3-29 add）
 
+官方 sdk 目录及说明
+
 ## 安装
 
     pip install evernote
@@ -44,4 +46,7 @@
 
 - `edam` 中各子目录对应 `evernote` 中的各模块，使用时可从此处 import 。 
 
+## 使用案例
+
+见 [demo.py](demo.py) 
 

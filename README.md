@@ -1,5 +1,5 @@
 # liSDK
 
-python 第三方SDK集合测试
+python 第三方SDK，个人使用demo记录。
 
 - evernote SDK
